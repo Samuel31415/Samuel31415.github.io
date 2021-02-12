@@ -1,44 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Samuel31415 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-Samuel31415
-/
-Clicker-Game
-1
-10
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Clicker-Game/index.html
-@Samuel31415
-Samuel31415 Update index.html
-Latest commit 43f34b1 22 days ago
- History
- 1 contributor
-208 lines (193 sloc)  6.77 KB
-  
-git clone https://github.com/Samue31415/Samue31415.github.io
-cd username.github.io
-echo "Hello World" > index.html
-git add --all
-git commit -m "Initial commit"
-git push -u origin main
 <!DOCTYPE html>
 <html>
     <head>
@@ -241,15 +200,3 @@ git push -u origin main
 
     </body>
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
