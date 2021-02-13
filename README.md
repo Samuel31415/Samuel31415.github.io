@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>.:The Awesome Clicker Game :D:.</title>
     </head>
     <body>
         <style>
